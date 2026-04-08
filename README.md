@@ -11,7 +11,7 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 4: Display the eigenvalues and corresponding eigenvectors and end the program.
 
 ## Program:
-```
+```Python
 #Program to find the eigen values and eigen vectors.
 #Developed by: ABHISHEK S
 #RegisterNumber: 212225100001
